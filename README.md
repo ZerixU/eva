@@ -1,2 +1,5 @@
 # eva
-a simple kaldi speech recognition application for learning purpose
+A simple speech recognition application for learning purpose created using KALDI ASR syste.
+We show all the steps needed in order to create an acoustic model and how to use it.
+
+Eduart Uzeir
